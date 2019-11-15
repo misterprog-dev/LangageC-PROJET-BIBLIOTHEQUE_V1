@@ -1,9 +1,5 @@
 # LangageC-PROJET-BIBLIOTHEQUE_V1
 
-Les concepteurs du logiciel : DIAKITE SOUMAILA et KONE SIDNEY AZIZ KHADER => MASTER 1 SIGL
-
-
-
 NB : Avant toute manipulation importer la base de donnees `esaticbiblio.sql` mysql qui est contenu dans
      
 le dossier BD.
